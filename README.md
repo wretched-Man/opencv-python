@@ -12,4 +12,8 @@ All the images for a particular module/folder are stored in the **images** subfo
 The notebooks are extensively documented and explain each block of code. In a limited fashion, the same also exist in the .py files.
 <br>
 <br>
-**Note: ** As side effects, some notebooks or .py files generate images and store to disk.
+**Note:** As side effects, some notebooks or .py files generate images and store to disk.
+<br>
+<br>
+Also, for most of the notebooks, the outputs have been cleared to save on space, but running them should give the same outputs.
+Some modules have **application** sub-folders, these are applications of the learning in question, isolated for better view.
